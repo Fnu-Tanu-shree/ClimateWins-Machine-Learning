@@ -32,3 +32,4 @@ PowerPoint – for presenting findings and visualizations
 ## 📒 Notebooks
 
 Check out my Jupyter notebooks scripts in the attached folder 'Scripts', that demonstrate my data wrangling, analysis, and visualization skills. 
+youtube presentation link : https://www.youtube.com/watch?v=m0KEIutMzU4&t=1s
